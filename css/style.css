@@ -325,13 +325,13 @@ body {
 /*섹션4시작*/
 #sec_4 {
   width: 100%;
-  height: 50.3rem;
+  height: 57.3rem;
   background-color: #6a6a6a;
 }
 .sec_4_contents_txt0 {
   float: left;
   font-size: 2.5rem;
-  margin-left: 21.5rem;
+  margin-left: 11.5rem;
   margin-top: 7.81rem;
   color: #ffffff;
   font-family: "Eulyoo1945-Regular";
@@ -343,14 +343,16 @@ body {
   margin-top: 7rem;
   line-height: 2.3rem;
   color: #ffffff;
+  text-align: center;
   font-family: "Noto Sans KR", sans-serif;
 }
 .sec_4_contents_txt2 {
   float: right;
   font-size: 1.25rem;
-  margin-right: 7rem;
+  margin-right: 36rem;
   margin-top: 7rem;
   line-height: 2.3rem;
+  text-align: center;
   color: #ffffff;
   font-family: "Noto Sans KR", sans-serif;
 }
@@ -838,7 +840,7 @@ body {
   background-color: #f5f5f5;
   z-index: 9999;
   position: absolute;
-  top: 445.7rem;
+  top: 451.7rem;
 }
 .footer_mn {
   float: left;
